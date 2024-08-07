@@ -15,7 +15,7 @@ Antes de começar, você precisa ter instalado:
 1. **Clone o repositório:**
 
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/taynara-yt/desafio-ibbi-tester
     cd 3-automation
     ```
 
