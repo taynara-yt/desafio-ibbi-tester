@@ -1,4 +1,4 @@
-# Desafio Técnico - Planejamento e Automação de Testes 📱🚀
+# Desafio Técnico - Planejamento e Automação de Testes 
 
 Bem-vindo ao repositório do meu desafio técnico!
 Neste projeto, realizei o planejamento, execução e automação de testes para o site Tudo Celular.
